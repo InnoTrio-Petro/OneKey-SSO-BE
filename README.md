@@ -1,2 +1,2 @@
 # OneKey-SSO
-Proyek auth SSO dengan keycloak yang menyiratkan satu akses untuk semuanya.
+Proyek auth SSO Backend dengan keycloak yang menyiratkan satu akses untuk semuanya.
